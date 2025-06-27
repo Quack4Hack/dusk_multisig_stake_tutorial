@@ -17,7 +17,7 @@ Step 3: You now have Profile 1 and Profile 2 in the wallet. Go into Profile 1
 
 
 
-From now all, *all* of your staking activity (stake, unstake, withdraw rewards, or transfering funds between wallets) will be done through the shielded account model.
+From now on, *all* of your staking activity (stake, unstake, withdraw rewards, or transfering funds between wallets) will be done through the shielded account model.
 
 
 
