@@ -1,3 +1,10 @@
+## Quick visual guide to setting up multisig staking on a Dusk node
+
+--- 
+
+### You are only secure if the wallet is *not on the same computer* as the node itself. The node only needs the consensus key to operate. Use a different, secure computer to interact with the wallet, or these instructions will have no effect.
+---
+
 Step 1: Open wallet. You may have only one profile (Profile 1). Choose the **Create a new profile** menu option
 - Make note of your public account. Here it is `xQNTs` for Profile 1. This is your *staking address*.
   
@@ -49,8 +56,6 @@ Step 7: Since your wallet has two profiles, it now asks you which profile you wa
 
 
 You are done. Check your **Stake Info** to verify your stake is active.
-
-### You are only secure if this wallet is not on the same computer as the node itself.
 
 
 ## Bonus content
