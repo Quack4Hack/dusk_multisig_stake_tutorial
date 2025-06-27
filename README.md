@@ -16,17 +16,18 @@ Step 3: You now have Profile 1 and Profile 2 in the wallet. Go into Profile 1
 ![4](https://github.com/user-attachments/assets/24ec5900-0911-4161-ad84-c31dee8c05cb)
 
 
+---
 
-From now on, *all* of your staking activity (stake, unstake, withdraw rewards, or transfering funds between wallets) will be done through the shielded account model.
+From now on, *all* of your staking activity (stake, unstake, withdraw rewards, or transfering funds between wallets) will be done through the shielded account model in Profile 1. 
+
+---
 
 
-
-Step 4*: Put your funds in the shielded account. (TODO: explain why optional)
-
-![6](https://github.com/user-attachments/assets/79ef5db1-cb22-4a54-a5d0-15e363a9e769)
+Step 4: Put your funds in the shielded account. As you are now practicing good security hygiene, you will move any funds you have into your shielded account in Profile 1. (If you are already staking and wish to unstake and proceed with this guide, you will instead unstake into your shielded account). Choose **Convert Public Dusk to Shielded Dusk** and convert your balance, saving some room for gas.
 
 ![5](https://github.com/user-attachments/assets/f4992c65-ead8-4073-9ead-67ebfbb3a469)
 
+![6](https://github.com/user-attachments/assets/79ef5db1-cb22-4a54-a5d0-15e363a9e769)
 
 
 Step 5: Choose the **Stake** menu option
