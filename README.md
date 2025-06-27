@@ -10,7 +10,7 @@ Step 2: Profile 2 has been created. Choose the **Back** menu option
 
 
 
-Step 3: You now have two profiles in the wallet. Go into Profile 1
+Step 3: You now have Profile 1 and Profile 2 in the wallet. Go into Profile 1
 - Make note of the *new* public account. Here it is `267nJ` for Profile 2. This will be your *owner address*.
   
 ![4](https://github.com/user-attachments/assets/24ec5900-0911-4161-ad84-c31dee8c05cb)
