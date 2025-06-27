@@ -21,7 +21,11 @@ From now all, *all* of your staking activity (stake, unstake, withdraw rewards, 
 
 
 
-Step 4 (optional): Put your funds in the shielded account.
+Step 4*: Put your funds in the shielded account. (TODO: explain why optional)
+
+![6](https://github.com/user-attachments/assets/79ef5db1-cb22-4a54-a5d0-15e363a9e769)
+
+![5](https://github.com/user-attachments/assets/f4992c65-ead8-4073-9ead-67ebfbb3a469)
 
 
 
